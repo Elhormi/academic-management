@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08d314c5-df2d-4fa9-a8b0-bf38ea4dae7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/batch-service/src/main/java/product/ma/batchservice/batch/ReportCardBatchConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/batch-service/src/main/java/product/ma/batchservice/model/ReportCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/batch-service/src/main/java/product/ma/batchservice/repository/ReportCardRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="08d314c5-df2d-4fa9-a8b0-bf38ea4dae7e" name="Changes" comment="backend">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,11 +157,25 @@
       <option name="presentableId" value="Default" />
       <updated>1736720129507</updated>
       <workItem from="1736720130627" duration="3433000" />
-      <workItem from="1736723966567" duration="597000" />
+      <workItem from="1736723966567" duration="2149000" />
+      <workItem from="1736768357391" duration="606000" />
     </task>
+    <task id="LOCAL-00001" summary="backend">
+      <option name="closed" value="true" />
+      <created>1736725110583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736725110583</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="backend" />
+    <option name="LAST_COMMIT_MESSAGE" value="backend" />
   </component>
 </project>
