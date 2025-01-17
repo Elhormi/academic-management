@@ -12,6 +12,33 @@
     <schema id="7" parent="1" name="local"/>
     <schema id="8" parent="1" name="studentservice">
       <Current>1</Current>
+      <LastIntrospectionLocalTimestamp>2025-01-15.10:50:39</LastIntrospectionLocalTimestamp>
     </schema>
+    <table id="9" parent="8" name="students"/>
+    <table id="10" parent="8" name="studentservice"/>
+    <column id="11" parent="9" name="_id">
+      <DasType>ObjectId|12s</DasType>
+      <Position>1</Position>
+    </column>
+    <column id="12" parent="9" name="_class">
+      <DasType>String|12s</DasType>
+      <Position>2</Position>
+    </column>
+    <column id="13" parent="9" name="age">
+      <DasType>Int32|4s</DasType>
+      <Position>3</Position>
+    </column>
+    <column id="14" parent="9" name="gender">
+      <DasType>String|12s</DasType>
+      <Position>4</Position>
+    </column>
+    <column id="15" parent="9" name="name">
+      <DasType>String|12s</DasType>
+      <Position>5</Position>
+    </column>
+    <column id="16" parent="9" name="schoolId">
+      <DasType>Int32|4s</DasType>
+      <Position>6</Position>
+    </column>
   </database-model>
 </dataSource>

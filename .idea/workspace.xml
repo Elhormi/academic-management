@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08d314c5-df2d-4fa9-a8b0-bf38ea4dae7e" name="Changes" comment="backend">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/051bd791-63ec-4218-aa6e-4d2e3c612fa0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/051bd791-63ec-4218-aa6e-4d2e3c612fa0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0ef9b3bd-a198-441a-9c09-f3aafce4192d.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0ef9b3bd-a198-441a-9c09-f3aafce4192d.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/218cc405-d43f-48a4-b580-f01420d36d41.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/218cc405-d43f-48a4-b580-f01420d36d41.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/34b219c4-348f-4f21-ba3d-be03d35b7e45.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/34b219c4-348f-4f21-ba3d-be03d35b7e45.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c7f602ea-11f6-41a7-b12c-97257ae92624.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c7f602ea-11f6-41a7-b12c-97257ae92624.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fe6158fa-8b05-49e9-a725-b4825029275c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/fe6158fa-8b05-49e9-a725-b4825029275c.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +37,9 @@
 }</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -53,11 +65,12 @@
     &quot;Spring Boot.CourseServiceApplication.executor&quot;: &quot;Run&quot;,
     &quot;Spring Boot.EurekaServerApplication.executor&quot;: &quot;Run&quot;,
     &quot;Spring Boot.ExamServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ResultServiceApplication.executor&quot;: &quot;Run&quot;,
     &quot;Spring Boot.StudentServiceApplication.executor&quot;: &quot;Run&quot;,
     &quot;Spring Boot.TeacherServiceApplication.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/IdeaProjects/academic-management-frontend&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/Downloads/gestion-academique-front/gestion-academique-front&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -90,7 +103,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.TeacherServiceApplication">
+  <component name="RunManager" selected="Spring Boot.StudentServiceApplication">
     <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="api-gateway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="product.ma.apigateway.ApiGatewayApplication" />
@@ -159,6 +172,16 @@
       <workItem from="1736720130627" duration="3433000" />
       <workItem from="1736723966567" duration="2149000" />
       <workItem from="1736768357391" duration="606000" />
+      <workItem from="1736774352610" duration="2719000" />
+      <workItem from="1736854921500" duration="406000" />
+      <workItem from="1736855539704" duration="2689000" />
+      <workItem from="1736882589002" duration="3111000" />
+      <workItem from="1736890916845" duration="283000" />
+      <workItem from="1736895679210" duration="3414000" />
+      <workItem from="1736935229060" duration="2479000" />
+      <workItem from="1736938606233" duration="2123000" />
+      <workItem from="1737108844921" duration="718000" />
+      <workItem from="1737144033702" duration="605000" />
     </task>
     <task id="LOCAL-00001" summary="backend">
       <option name="closed" value="true" />
@@ -168,7 +191,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736725110583</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="backend">
+      <option name="closed" value="true" />
+      <created>1736774418876</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736774418876</updated>
+    </task>
+    <task id="LOCAL-00003" summary="backend">
+      <option name="closed" value="true" />
+      <created>1736774487212</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736774487212</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

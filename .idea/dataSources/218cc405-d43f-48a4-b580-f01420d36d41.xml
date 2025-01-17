@@ -1029,7 +1029,7 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
     </schema>
     <schema id="299" parent="1" name="batchservice">
       <Current>1</Current>
-      <LastIntrospectionLocalTimestamp>2025-01-12.22:53:28</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionLocalTimestamp>2025-01-15.11:23:59</LastIntrospectionLocalTimestamp>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
     <user id="300" parent="1" name="mysql.infoschema">

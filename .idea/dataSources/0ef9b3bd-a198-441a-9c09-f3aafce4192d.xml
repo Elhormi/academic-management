@@ -1023,7 +1023,7 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
     </schema>
     <schema id="297" parent="1" name="teacherservice">
       <Current>1</Current>
-      <LastIntrospectionLocalTimestamp>2025-01-12.22:58:25</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionLocalTimestamp>2025-01-15.10:49:23</LastIntrospectionLocalTimestamp>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
     <schema id="298" parent="1" name="resultservice">
@@ -1056,7 +1056,7 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </table>
     <column id="305" parent="304" name="id">
-      <AutoIncrement>2</AutoIncrement>
+      <AutoIncrement>3</AutoIncrement>
       <DasType>bigint|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>

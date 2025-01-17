@@ -10,8 +10,39 @@
     <schema id="5" parent="1" name="courseservice"/>
     <schema id="6" parent="1" name="examservice">
       <Current>1</Current>
+      <LastIntrospectionLocalTimestamp>2025-01-15.11:24:59</LastIntrospectionLocalTimestamp>
     </schema>
     <schema id="7" parent="1" name="local"/>
     <schema id="8" parent="1" name="studentservice"/>
+    <table id="9" parent="6" name="exams"/>
+    <table id="10" parent="6" name="examservice"/>
+    <column id="11" parent="9" name="_id">
+      <DasType>ObjectId|12s</DasType>
+      <Position>1</Position>
+    </column>
+    <column id="12" parent="9" name="_class">
+      <DasType>String|12s</DasType>
+      <Position>2</Position>
+    </column>
+    <column id="13" parent="9" name="date">
+      <DasType>String|12s</DasType>
+      <Position>3</Position>
+    </column>
+    <column id="14" parent="9" name="examPapers">
+      <DasType>Array|2003s</DasType>
+      <Position>4</Position>
+    </column>
+    <column id="15" parent="9" name="name">
+      <DasType>String|12s</DasType>
+      <Position>5</Position>
+    </column>
+    <column id="16" parent="9" name="room">
+      <DasType>String|12s</DasType>
+      <Position>6</Position>
+    </column>
+    <column id="17" parent="9" name="supervisors">
+      <DasType>Array|2003s</DasType>
+      <Position>7</Position>
+    </column>
   </database-model>
 </dataSource>
